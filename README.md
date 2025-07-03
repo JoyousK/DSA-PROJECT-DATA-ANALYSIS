@@ -59,7 +59,4 @@ EDA involved the exploiring of data to answer some question about the data such 
 
 ### Data Analysis
 this is where we include some basis line of code or queries or even some of the DAX expressions used during the Analysis.
-``` SQL
-SELECT A,B,C
-WHERE A > 45
-````
+[DSA Amazon case study.xlsx](https://github.com/user-attachments/files/21047779/DSA.Amazon.case.study.xlsx)
