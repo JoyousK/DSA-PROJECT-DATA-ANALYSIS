@@ -60,3 +60,8 @@ EDA involved the exploiring of data to answer some question about the data such 
 ### Data Analysis
 this is where we include some basis line of code or queries or even some of the DAX expressions used during the Analysis.
 [DSA Amazon case study.xlsx](https://github.com/user-attachments/files/21047779/DSA.Amazon.case.study.xlsx)
+
+#### ANALYSIS.
+![PALMORA2](https://github.com/user-attachments/assets/99e2e5e1-e88a-4f33-92a1-8d8168936afe)
+![PALMORA 1](https://github.com/user-attachments/assets/307e46d1-6823-46cd-a1f9-a7bffb6e8a28)
+![AMAZON](https://github.com/user-attachments/assets/51150f67-1838-428c-b0fe-71fc00549570)
